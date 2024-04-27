@@ -18,7 +18,7 @@
    npm install
    ```
 
-4. Create an account on [WeatherAPI](https://www.weatherapi.com/) for weather data and obtain an API key.
+4. Create an account on [WeatherAPI](https://openweathermap.org/api) for weather data and obtain an API key.
 
 5. Create a `.env` file in the root directory of the project and add your API key:
 
